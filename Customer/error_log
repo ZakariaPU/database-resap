@@ -1,0 +1,15 @@
+[12-Oct-2024 11:46:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/resr7526/public_html/resap.kitchen/Customer/class/adminback.php:77
+Stack trace:
+#0 /home/resr7526/public_html/resap.kitchen/Customer/index.php(9): adminback->place_order(Array)
+#1 {main}
+  thrown in /home/resr7526/public_html/resap.kitchen/Customer/class/adminback.php on line 77
+[12-Oct-2024 11:53:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/resr7526/public_html/resap.kitchen/Customer/class/adminback.php:77
+Stack trace:
+#0 /home/resr7526/public_html/resap.kitchen/Customer/index.php(9): adminback->place_order(Array)
+#1 {main}
+  thrown in /home/resr7526/public_html/resap.kitchen/Customer/class/adminback.php on line 77
+[12-Oct-2024 11:54:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/resr7526/public_html/resap.kitchen/Customer/class/adminback.php:77
+Stack trace:
+#0 /home/resr7526/public_html/resap.kitchen/Customer/index.php(9): adminback->place_order(Array)
+#1 {main}
+  thrown in /home/resr7526/public_html/resap.kitchen/Customer/class/adminback.php on line 77
